@@ -7,7 +7,7 @@ AngularJS Chat Room
 
 ##How to use
 
-  git clone https://github.com/sheila1227/ChatRoom-AngularJS
+ git clone https://github.com/sheila1227/ChatRoom-AngularJS
   
   cd ChatRoom-AngularJS
   
