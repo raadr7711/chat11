@@ -1,3 +1,5 @@
+var apps = function () {
+
 var express = require('express');
 var app = require('express')();
 var http = require('http').createServer(app);
@@ -55,7 +57,7 @@ io.on('connection',function(socket){
         }
     );
 });
-
+}();
 http.listen(3002, function () {
     console.log('listening on *:3002');
 });
